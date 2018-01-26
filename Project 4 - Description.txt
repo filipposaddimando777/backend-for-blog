@@ -1,0 +1,3 @@
+This is the back-end for my personal blog / website. 
+
+It is built using Mongo DB for the blog posts, NodeJS, Mongoose for the back end model, Express for the app.

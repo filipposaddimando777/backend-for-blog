@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "The back end for my personal blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filippos Addimando",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*"
+  }
+}
